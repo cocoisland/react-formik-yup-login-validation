@@ -1,5 +1,6 @@
+# Login page with Yup scheme validated by Formik
 
-## Formik wrapper library 
+## Formik replaces React form component 
 **Formik Field element handles onChange, onBlur, name, value from html input element.**
 Formik Field element replaced:
 	React state hook management as html input field value are handled.

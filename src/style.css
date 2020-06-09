@@ -1,0 +1,22 @@
+
+.App {
+    text-align: center;
+    background: white;
+    border-radius: 10px;
+    width: 500px;
+    padding: 50px;
+  }
+
+body {
+    background: skyblue;
+    font-family: 'Roboto';
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.LoginPage {
+    box-sizing: border-box;
+    
+}
